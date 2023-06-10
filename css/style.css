@@ -4261,21 +4261,6 @@ header .wrapper .text h1 {
   }
 }
 
-@media screen and (max-width: 600px) {
-  html body .aos-animate {
-    -o-transition-property: none !important;
-    -webkit-transition-property: none !important;
-    transition-property: none !important;
-    /*CSS transforms*/
-    -ms-transform: none !important;
-    -webkit-transform: none !important;
-    transform: none !important;
-    /*CSS animations*/
-    -webkit-animation: none !important;
-    animation: none !important;
-  }
-}
-
 @media (max-width: 600px) {
   .swiper-button-prev,
   .swiper-button-next {
