@@ -3075,7 +3075,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos],
 }
 
 header {
-  background: url("/img/header.webp") no-repeat center;
+  background: url("../img/header.webp") no-repeat center;
   background-size: cover;
   height: 895px;
   color: rgb(247, 247, 247);
@@ -3450,7 +3450,7 @@ header .wrapper .text h1 {
 }
 
 .booking {
-  background: url("/img/main.webp") no-repeat center;
+  background: url("../img/main.webp") no-repeat center;
   background-size: cover;
   width: 100vw;
   height: 800px;
@@ -3641,7 +3641,7 @@ header .wrapper .text h1 {
   min-height: -webkit-max-content;
   min-height: -moz-max-content;
   min-height: max-content;
-  background: url("/img/footer.webp") no-repeat center;
+  background: url("../img/footer.webp") no-repeat center;
   background-size: cover;
 }
 
